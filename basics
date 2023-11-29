@@ -1,0 +1,8 @@
+• Scrap data from different Intermediate board websites into csv files.
+• Load the data from files into Temporary DB and then transform it to get consistency in data.
+• Perform data cleansing using queries.
+• Established a warehouse for results of boards.
+• Create different dimension tables, Star schema for Data warehouse.
+• De-normalize data for fast retrieval.
+• Load the data in DWH using Bteq and Fast load.
+Tool : TERADATA.
